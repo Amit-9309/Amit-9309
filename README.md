@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Amit Singh</h1>
-<h3 align="center">📊 Aspiring Data Analyst | Python • SQL • Machine Learning</h3>
+<h3 align="center">📊 Aspiring Data Analyst</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Analytics+Enthusiast;Python+Developer;SQL+Learner;Machine+Learning+Beginner;Open+to+Opportunities" />
@@ -21,19 +21,23 @@
 ### 👨‍💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 ### 📊 Data Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
 
 ### 🗄️ Database
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql)
 
-### 🤖 Machine Learning
-- Regression
-- Classification
-- Data Preprocessing
+### 🧠 Core Subjects
+- Computer Networks
+- DBMS
+- OOPs
 
 ---
 
@@ -48,7 +52,7 @@
 
 ## 🌐 Connect With Me
 📧 Email: amitsinghbrj5@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK-HERE
+💼 LinkedIn: https://www.linkedin.com/in/amit-singh-86a9062aa
 
 ---
 
