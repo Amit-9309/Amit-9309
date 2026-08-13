@@ -1,18 +1,24 @@
 <h1 align="center">Hey 👋, I'm Amit Singh</h1>
-<h3 align="center">📊 Aspiring Data Analyst</h3>
+<h3 align="center">📊 Building the Future with AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Analytics+Enthusiast;Python+Developer;SQL+Learner;Machine+Learning+Beginner;Open+to+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;AI%2FML+Enthusiast;Generative+AI;LLMs+%26+RAG;Data+Analytics;Flask+%26+Django;React+%26+JavaScript;SQL+%26+MySQL;Git+%26+GitHub" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Final Year B.Tech CSE Student
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE Student
 - 📍 India
-- 📊 Interested in Data Analytics & AI
-- 🧠 Love analyzing datasets and finding insights
-- 🎯 Preparing for off-campus placements (Data Analyst roles)
+- 🤖 Aspiring AI/ML Engineer
+- 🧠 Exploring LLMs, RAG & Generative AI
+- 🐍 Python Developer
+- 📊 Interested in Data Analytics & Machine Learning
+- 🔨 Building real-world AI-powered projects
+- 💡 Passionate about solving problems through technology
+- 🚀 Always learning, building & experimenting
+- 💼 Open to exciting opportunities
 
 ---
 
